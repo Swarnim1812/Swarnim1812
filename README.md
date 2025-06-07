@@ -1,27 +1,93 @@
-[![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)](https://Swarnim1812)
-<h1 align="center">Hi 👋, I'm Swarnim Raj</h1>
-<h3 align="center">A passionate Software developer from India</h3>
-<img align = "left" alt = "Coding" width = "380" src = "https://user-images.githubusercontent.com/51194584/258857674-a1827d5b-af82-45b7-947e-3382f2431c75.gif"> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swarnim1812&label=Profile%20views&color=0e75b6&style=flat" alt="swarnim1812" /> </p>
+<!-- Stylish GitHub README for Swarnim Raj -->
 
-- 🔭 I’m currently working on **Time-Series LLMs**
-
-- 🌱 I’m currently learning **Deep Learning, LLMs**
-
-- 👯 I’m looking to collaborate on **Full Stack projects**
-
-- 💬 Ask me about **MERN, DSA, CP, ML**
-
-- 📫 How to reach me **swarnimraj1812@gmail.com**
-
-- ⚡ Fun fact **I treat bugs like puzzles—fun to find, satisfying to solve.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/swarnim raj profile - https://www.linkedin.com/in/swarnim-raj-496106260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swarnim raj profile - https://www.linkedin.com/in/swarnim-raj-496106260/" height="30" width="40" /></a>
+<!-- Master Head Banner -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif" alt="banner"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<!-- 👋 Intro Section -->
+<h1 align="center" style="color:#ff6f61; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  Hi <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="30"/>, I'm Swarnim Raj
+</h1>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swarnim1812&show_icons=true&locale=en&layout=compact" alt="swarnim1812" /></p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=35F7F7&size=24&center=true&vCenter=true&lines=Software+Developer;ML+Enthusiast;Open+Source+Contributor;Time-Series+Researcher" />
+</h3>
+
+<!-- About Me Card Style -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/51194584/258857674-a1827d5b-af82-45b7-947e-3382f2431c75.gif" width="300" style="border-radius: 15px"/>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=swarnim1812&label=Profile%20views&color=fbca04&style=flat" alt="Profile views"/>
+</div>
+
+<hr style="border-top: 2px dashed #bbb;">
+
+<!-- Details -->
+<div align="center">
+  <p>
+    🔭 Currently working on <strong>Time-Series LLMs</strong><br>
+    🌱 Learning <strong>Deep Learning, LLMs</strong><br>
+    🤝 Looking to collaborate on <strong>Full Stack Projects</strong><br>
+    💬 Ask me about <strong>MERN, DSA, CP, ML</strong><br>
+    📨 Reach me at <a href="mailto:swarnimraj1812@gmail.com" style="color:#add8e6">swarnimraj1812@gmail.com</a><br>
+    ⚡ Fun Fact: <em>I treat bugs like puzzles — fun to find, satisfying to solve.</em>
+  </p>
+</div>
+
+<hr style="border-top: 2px dashed #bbb;">
+
+<!-- Connect Section -->
+<h3 align="center" style="color:#ffb6c1">🌐 Connect with me:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/swarnim-raj-496106260/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
+
+<hr style="border-top: 2px dashed #bbb;">
+
+<!-- Tools Section -->
+<h3 align="center" style="color:#98fb98">🛠️ Languages and Tools:</h3>
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" height="40"/><br/><strong>HTML</strong></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" height="40"/><br/><strong>CSS</strong></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" height="40"/><br/><strong>JavaScript</strong></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" height="40"/><br/><strong>React</strong></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" height="40"/><br/><strong>Node.js</strong></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" height="40"/><br/><strong>Express</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" height="40"/><br/><strong>MongoDB</strong></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" height="40"/><br/><strong>Python</strong></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" height="40"/><br/><strong>Java</strong></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c" height="40"/><br/><strong>C</strong></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" height="40"/><br/><strong>C++</strong></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" height="40"/><br/><strong>Git</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" height="40"/><br/><strong>Bootstrap</strong></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" height="40"/><br/><strong>Tailwind</strong></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" height="40"/><br/><strong>Docker</strong></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" height="40"/><br/><strong>PyTorch</strong></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" height="40"/><br/><strong>VS Code</strong></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman" height="40"/><br/><strong>Postman</strong></td>
+  </tr>
+</table>
+
+<hr style="border-top: 2px dashed #bbb;">
+
+<!-- Top Languages Card -->
+<h3 align="center" style="color:#f08080">📊 Most Used Languages:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swarnim1812&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<hr style="border-top: 2px dashed #bbb;">
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
