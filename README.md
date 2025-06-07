@@ -4,38 +4,45 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Swarnim1812/Swarnim1812/refs/heads/main/githubBanner.png" alt="banner"/>
 </p>
-<hr style="border-top: 2px dashed #bbb;">
-<!-- 👋 Intro Section -->
-<!--
-<h1 align="center" style="color:#ff6f61; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  Hi <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="30"/>, I'm Swarnim Raj
-</h1>
--->
 
+<hr style="border-top: 2px dashed #bbb;">
+
+<!-- Typing SVG Titles -->
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=35F7F7&size=24&center=true&vCenter=true&lines=Software+Developer;ML+Enthusiast;Open+Source+Contributor;Time-Series+Researcher" />
 </h3>
 
-<!-- About Me Card Style -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/51194584/258857674-a1827d5b-af82-45b7-947e-3382f2431c75.gif" width="300" style="border-radius: 15px"/>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=swarnim1812&label=Profile%20views&color=fbca04&style=flat" alt="Profile views"/>
-</div>
+<!-- Full width inverted wave matching GitHub README container width -->
+<p align="center" style="margin: 0; padding: 0; overflow-x: hidden; width: 100%;">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" 
+    alt="wave decoration" 
+    style="width: 100%; height: 150px; object-fit: cover; display: block; margin: 0; transform: scaleY(-1);"
+  />
+</p>
 
-<hr style="border-top: 2px dashed #bbb;">
 
-<!-- Details -->
-<div align="center">
-  <p>
-    🔭 Currently working on <strong>Time-Series LLMs</strong><br>
-    🌱 Learning <strong>Deep Learning, LLMs</strong><br>
-    🤝 Looking to collaborate on <strong>Full Stack Projects</strong><br>
-    💬 Ask me about <strong>MERN, DSA, CP, ML</strong><br>
-    📨 Reach me at <a href="mailto:swarnimraj1812@gmail.com" style="color:#add8e6">swarnimraj1812@gmail.com</a><br>
-    ⚡ Fun Fact: <em>I treat bugs like puzzles — fun to find, satisfying to solve.</em>
-  </p>
-</div>
+
+<!-- About Me + Details Two-Column (GIF on Right) -->
+<table align="center">
+  <tr>
+    <!-- Left Column: Details -->
+    <td align="left" width="50%" style="vertical-align: top; padding: 10px;">
+      <p>
+        🔭 Currently working on <strong>Time-Series LLMs</strong><br>
+        🌱 Learning <strong>Deep Learning, LLMs</strong><br>
+        🤝 Looking to collaborate on <strong>Full Stack Projects</strong><br>
+        💬 Ask me about <strong>MERN, DSA, CP, ML</strong><br>
+        📨 Reach me at <a href="mailto:swarnimraj1812@gmail.com" style="color:#1e90ff">swarnimraj1812@gmail.com</a><br>
+        ⚡ Fun Fact: <em>I treat bugs like puzzles — fun to find, satisfying to solve.</em>
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://user-images.githubusercontent.com/51194584/258857674-a1827d5b-af82-45b7-947e-3382f2431c75.gif" width="250" style="border-radius: 15px"/><br><br>
+      <img src="https://komarev.com/ghpvc/?username=swarnim1812&label=Profile%20views&color=fbca04&style=flat" alt="Profile views"/>
+    </td>
+  </tr>
+</table>
 
 <hr style="border-top: 2px dashed #bbb;">
 
