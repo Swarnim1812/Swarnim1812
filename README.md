@@ -2,13 +2,15 @@
 
 <!-- Master Head Banner -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif" alt="banner"/>
+  <img src="https://raw.githubusercontent.com/Swarnim1812/Swarnim1812/refs/heads/main/githubBanner.png" alt="banner"/>
 </p>
-
+<hr style="border-top: 2px dashed #bbb;">
 <!-- 👋 Intro Section -->
+<!--
 <h1 align="center" style="color:#ff6f61; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   Hi <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="30"/>, I'm Swarnim Raj
 </h1>
+-->
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=35F7F7&size=24&center=true&vCenter=true&lines=Software+Developer;ML+Enthusiast;Open+Source+Contributor;Time-Series+Researcher" />
